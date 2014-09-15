@@ -1,0 +1,304 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AN1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	62;"	kind:d	line:62
+AN2	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	63;"	kind:d	line:63
+AN_PORTS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	77;"	kind:d	line:77
+AN_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	60;"	kind:d	line:60
+An_i	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^const void *An_i = &_An_i;$/;"	kind:v	line:104
+An_i	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^struct An_i$/;"	kind:s	line:54	file:
+An_i_attach	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^static void *An_i_attach (void * _board,void *_sensor,int portnumb)$/;"	kind:f	line:77	file:
+An_i_ctor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^static void *An_i_ctor (void * _self, va_list *app)$/;"	kind:f	line:60	file:
+An_i_dtor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^static void An_i_dtor (void * _sensor)$/;"	kind:f	line:67	file:
+An_i_getan_i	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^static float An_i_getan_i (void * _self,va_list *app)$/;"	kind:f	line:86	file:
+BASICDEVICES_PRO_H	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	50;"	kind:d	line:50
+BOTH_SHARED	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	72;"	kind:d	line:72
+Board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^const void *Board = &_Board;$/;"	kind:v	line:366
+Board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Board$/;"	kind:s	line:92	file:
+BoardClass	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^struct BoardClass$/;"	kind:s	line:79
+Board_ctor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^static void *Board_ctor (void * _self, va_list *app)$/;"	kind:f	line:109	file:
+COUNT_250MS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	4;"	kind:d	line:4	file:
+D3VR_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	56;"	kind:d	line:56
+D3V_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	57;"	kind:d	line:57
+D5VR_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	58;"	kind:d	line:58
+D5V_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	59;"	kind:d	line:59
+DEBUG_PORTS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	79;"	kind:d	line:79
+DIG1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	60;"	kind:d	line:60
+DIG2	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	61;"	kind:d	line:61
+DIG_PORTS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	80;"	kind:d	line:80
+DOUBLE_PORT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	66;"	kind:d	line:66
+DUTY	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	70;"	kind:d	line:70
+Dig_io	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^const void *Dig_io = &_Dig_io;$/;"	kind:v	line:165
+Dig_io	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^struct Dig_io$/;"	kind:s	line:54	file:
+Dig_io_attach	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^static void* Dig_io_attach (void * _board,void *_sensor,int n)$/;"	kind:f	line:106	file:
+Dig_io_ctor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^static void *Dig_io_ctor (void * _self, va_list *app)$/;"	kind:f	line:65	file:
+Dig_io_dtor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^static void Dig_io_dtor (void * _sensor)$/;"	kind:f	line:90	file:
+Dig_io_get_dig_io	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^static float Dig_io_get_dig_io (void * _self,va_list *app)$/;"	kind:f	line:147	file:
+Dig_io_set_dig_io	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^static int Dig_io_set_dig_io (void * _self,va_list *app)$/;"	kind:f	line:117	file:
+EMAIL_BODY	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char EMAIL_BODY[200];$/;"	kind:v	line:13
+EMAIL_DEST	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char EMAIL_DEST[50];$/;"	kind:v	line:11
+EMAIL_SUBJECT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char EMAIL_SUBJECT[100];$/;"	kind:v	line:12
+ERR_PORT_ALREADY_USED	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	77;"	kind:d	line:77
+ERR_WRONG_PORTNUM	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	76;"	kind:d	line:76
+ERR_WRONG_PORT_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	78;"	kind:d	line:78
+FREQUENCY	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	69;"	kind:d	line:69
+FlyportTask	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^void FlyportTask()	$/;"	kind:f	line:44
+GMT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char GMT[10];$/;"	kind:v	line:15
+GMT_hour_adding	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	int GMT_hour_adding;$/;"	kind:l	line:59
+GROVEBOARD_PRO_H	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	50;"	kind:d	line:50
+GROVEINTERFACES_PRO_H	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	50;"	kind:d	line:50
+GROVELIB_H	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib.h	49;"	kind:d	line:49
+GROVELIB_PRO_H	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	50;"	kind:d	line:50
+GROVE_TIMEOUT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	72;"	kind:d	line:72
+GroveDevicesPowerSupply	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^void GroveDevicesPowerSupply(BOOL enable);$/;"	kind:p	line:61
+GroveDevicesPowerSupply	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^void GroveDevicesPowerSupply(BOOL enable)$/;"	kind:f	line:84
+GroveNest	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	73;"	kind:d	line:73
+GrovePort	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^}GrovePort;$/;"	kind:t	line:92	typeref:struct:__anon1
+GroveStarted	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BOOL GroveStarted = FALSE;$/;"	kind:v	line:106
+HTTPCheckAuth	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^BYTE HTTPCheckAuth(BYTE* cUser, BYTE* cPass)$/;"	kind:f	line:446
+HTTPExecuteGet	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^HTTP_IO_RESULT HTTPExecuteGet(void)$/;"	kind:f	line:73
+HTTPExecutePost	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^HTTP_IO_RESULT HTTPExecutePost(void)$/;"	kind:f	line:91
+HTTPNeedsAuth	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^BYTE HTTPNeedsAuth(BYTE* cFile)$/;"	kind:f	line:428
+I2C	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	64;"	kind:d	line:64
+I2C_PORTS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	78;"	kind:d	line:78
+I2C_TYPE	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	61;"	kind:d	line:61
+IC1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	64;"	kind:d	line:64	file:
+IC2	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	65;"	kind:d	line:65	file:
+IC3	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	66;"	kind:d	line:66	file:
+IC4	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	67;"	kind:d	line:67	file:
+IC5	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	68;"	kind:d	line:68	file:
+IC6	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	69;"	kind:d	line:69	file:
+ICCON1Rs	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^int *ICCON1Rs [] = {$/;"	kind:v	line:93
+ICCON2Rs	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^int *ICCON2Rs [] = {$/;"	kind:v	line:100
+ICInit	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\input_capture.h	/^void ICInit(BYTE,BYTE,BYTE);$/;"	kind:p	line:53
+ICInit	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^ void ICInit(BYTE ic_module,BYTE active_edge,BYTE doublemodule)$/;"	kind:f	line:266
+ICOff	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\input_capture.h	/^void ICOff(BYTE);$/;"	kind:p	line:54
+ICOff	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void ICOff(BYTE ic_module)$/;"	kind:f	line:357
+ICOn	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\input_capture.h	/^int ICOn(BYTE,int,unsigned long *);$/;"	kind:p	line:55
+ICOn	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^int ICOn(BYTE ic_module,int time,unsigned long *data)$/;"	kind:f	line:305
+ICPos	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^const BYTE ICPos[] = {$/;"	kind:v	line:108
+ICPos	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^const BYTE ICPos[] = {$/;"	kind:v	line:116
+ICPos	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^const BYTE ICPos[] = {$/;"	kind:v	line:124
+INIT_CORRECT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	75;"	kind:d	line:75
+IOInit_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\input_capture.h	/^void IOInit_(int, int);$/;"	kind:p	line:52
+IOInit_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void IOInit_(int io, int putval) $/;"	kind:f	line:231
+Interface	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^struct Interface$/;"	kind:s	line:83
+IoT_Board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	72;"	kind:d	line:72
+LED1_Pin	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	55;"	kind:d	line:55
+LED2_Pin	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	56;"	kind:d	line:56
+MY_EMAIL	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char MY_EMAIL[50];$/;"	kind:v	line:6
+MY_EMAIL_PASS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char MY_EMAIL_PASS[30];$/;"	kind:v	line:8
+MY_EMAIL_USER	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char MY_EMAIL_USER[50];$/;"	kind:v	line:7
+MY_SMTP	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char MY_SMTP[50];$/;"	kind:v	line:9
+MY_SMTP_PORT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char MY_SMTP_PORT[10];$/;"	kind:v	line:10
+NOT_SHARED	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	69;"	kind:d	line:69
+NOT_USED	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	64;"	kind:d	line:64
+OnConnectionFailed	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^void OnConnectionFailed(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:15
+OnConnectionPermLost	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^void OnConnectionPermLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:33
+OnConnectionReestablished	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^void OnConnectionReestablished(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:27
+OnConnectionSuccessful	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^void OnConnectionSuccessful(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:9
+OnConnectionTempLost	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^void OnConnectionTempLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:21
+OnScanResult	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^void OnScanResult(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:39
+OneWireDecode	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\input_capture.h	/^int OneWireDecode(BYTE,unsigned int,BYTE,unsigned long *);$/;"	kind:p	line:56
+OneWireDecode	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^int OneWireDecode(BYTE ic_module,unsigned int bitone_lenght,BYTE bit_number,unsigned long *data)$/;"	kind:f	line:398
+P1_SHARED	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	70;"	kind:d	line:70
+P2_SHARED	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	71;"	kind:d	line:71
+PWM	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\basicdevices-pro.h	68;"	kind:d	line:68
+ParamSet	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^BOOL ParamSet = FALSE;$/;"	kind:v	line:19
+PassKey	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^static char PassKey[129];$/;"	kind:v	line:48	file:
+Pin1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Pin1;			\/\/ 	Pin1 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:87	struct:__anon1	access:public
+Pin2	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Pin2;			\/\/	Pin2 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:88	struct:__anon1	access:public
+RPICRs	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^int *RPICRs[]	= {$/;"	kind:v	line:84
+ReadBatteryLevel	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^float ReadBatteryLevel();$/;"	kind:p	line:64
+ReadBatteryLevel	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^float ReadBatteryLevel()$/;"	kind:f	line:77
+SINGLE_PORT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	65;"	kind:d	line:65
+ScanCompleted	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^BOOL ScanCompleted = FALSE;$/;"	kind:v	line:7
+SensorClass	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^struct SensorClass$/;"	kind:s	line:68
+String_post	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^char String_post[String_post_Len];$/;"	kind:v	line:45
+String_post_Len	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	44;"	kind:d	line:44	file:
+TIMEOUT	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	72;"	kind:d	line:72	file:
+Type	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Type;			\/\/	Port type - Type of the port, as in the upper defines$/;"	kind:m	line:90	struct:__anon1	access:public
+Use	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE Use;			\/\/	Port usage - Indicates if it's used as single or double sensor, or not used$/;"	kind:m	line:89	struct:__anon1	access:public
+V_BAT_Channel	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	63;"	kind:d	line:63
+V_GROVE_Disable	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	60;"	kind:d	line:60
+V_GROVE_Enable	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	59;"	kind:d	line:59
+V_GROVE_Pin	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	58;"	kind:d	line:58
+_An_i	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^static const struct SensorClass _An_i =$/;"	kind:v	line:93	typeref:struct:SensorClass	file:
+_Board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^static const struct BoardClass _Board =$/;"	kind:v	line:358	typeref:struct:BoardClass	file:
+_Dig_io	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^static const struct SensorClass _Dig_io =$/;"	kind:v	line:154	typeref:struct:SensorClass	file:
+_IC1Interrupt	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC1Interrupt(void)$/;"	kind:f	line:151
+_IC2Interrupt	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC2Interrupt(void)$/;"	kind:f	line:163
+_IC3Interrupt	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC3Interrupt(void)$/;"	kind:f	line:171
+_IC4Interrupt	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC4Interrupt(void)$/;"	kind:f	line:183
+_IC5Interrupt	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC5Interrupt(void)$/;"	kind:f	line:191
+_IC6Interrupt	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^void __attribute__((interrupt, no_auto_psv)) _IC6Interrupt(void)$/;"	kind:f	line:203
+__HTTPAPP_C	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	42;"	kind:d	line:42	file:
+anVal	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	float anVal = 0.0;$/;"	kind:l	line:52
+anVal_zero	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	float anVal_zero = 70.0;$/;"	kind:l	line:53
+aninext	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *aninext;$/;"	kind:m	line:101	struct:Board	typeref:struct:Board::Interface	file:	access:public
+anistart	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *anistart;$/;"	kind:m	line:100	struct:Board	typeref:struct:Board::Interface	file:	access:public
+ap	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:112
+ap	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:123
+ap	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:133
+ap	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	va_list ap;$/;"	kind:l	line:63
+attach	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	int (*attach)  (void *,void *,int,int);$/;"	kind:m	line:84	struct:BoardClass	access:public
+attach	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*attach) (void *,void *,int);$/;"	kind:m	line:73	struct:SensorClass	access:public
+attachSensorToAnBus	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^struct Interface *	attachSensorToAnBus (void *,int);$/;"	kind:p	line:52	file:
+attachSensorToAnBus	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *	attachSensorToAnBus (void *_board,int n)$/;"	kind:f	line:257
+attachSensorToDigioBus	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^struct Interface *attachSensorToDigioBus(void *,int,int);$/;"	kind:p	line:52	file:
+attachSensorToDigioBus	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *attachSensorToDigioBus(void *_board,int n,int type)$/;"	kind:f	line:199
+attachSensorToI2CBus	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *attachSensorToI2CBus(void *_board,int i2cbus,int add)$/;"	kind:f	line:161
+attachSensorToUartBus	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^struct Interface *attachSensorToUartBus(void *_board,int port,int speed,BYTE module,BYTE interf)$/;"	kind:f	line:304
+attachToBoard	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^int attachToBoard(void *,void *,int);$/;"	kind:p	line:62
+attachToBoard	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^int attachToBoard(void *board,void *sensor,int numb)$/;"	kind:f	line:95
+board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^    void *board = new(IoT_Board);$/;"	kind:l	line:66
+boardType	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	int boardType;$/;"	kind:m	line:95	struct:Board	file:	access:public
+buf	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\WF_Events.c	/^	char buf[8];$/;"	kind:l	line:42
+class	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	const void *class;$/;"	kind:m	line:56	struct:An_i	file:	access:public
+class	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	const void *class;$/;"	kind:m	line:56	struct:Dig_io	file:	access:public
+class	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	const void *class;$/;"	kind:m	line:94	struct:Board	file:	access:public
+class	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct BoardClass *class = _class;$/;"	kind:l	line:158
+class	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass *class = _class;$/;"	kind:l	line:180
+cnt_ee_d	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	unsigned int cnt_ee_d=11;$/;"	kind:l	line:48
+cnt_ee_i	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	unsigned int cnt_ee_i=0;$/;"	kind:l	line:47
+config	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	int (*config) (void *,va_list *);$/;"	kind:m	line:74	struct:SensorClass	access:public
+configure	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^int configure(void *,...);$/;"	kind:p	line:63
+configure	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^int configure(void *self, ...)$/;"	kind:f	line:110
+cp	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:114
+cp	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:125
+cp	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:135
+ctor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:71	struct:SensorClass	access:public
+ctor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:82	struct:BoardClass	access:public
+d	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long d = 0;$/;"	kind:l	line:402
+data	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^			float data = va_arg(*app, const float);$/;"	kind:l	line:134
+data	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\i2c_devices-pro.c	/^	BYTE data = I2C2Read(1);$/;"	kind:l	line:75
+data	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned int data;$/;"	kind:l	line:269
+dbg_string	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char dbg_string[100];	$/;"	kind:v	line:20
+delet_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^void delet_(void **);$/;"	kind:p	line:61
+delet_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^void delet_(void **_self)$/;"	kind:f	line:89
+delete	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	57;"	kind:d	line:57
+delete_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^void delete_(void *);$/;"	kind:p	line:60
+delete_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^void delete_(void *_self)$/;"	kind:f	line:79
+dionext	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *dionext;$/;"	kind:m	line:99	struct:Board	typeref:struct:Board::Interface	file:	access:public
+diostart	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *diostart;$/;"	kind:m	line:98	struct:Board	typeref:struct:Board::Interface	file:	access:public
+dtor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void (*dtor) (void *);$/;"	kind:m	line:72	struct:SensorClass	access:public
+dtor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void *(*dtor) (void *);$/;"	kind:m	line:83	struct:BoardClass	access:public
+dtor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^		(*self)->dtor(self);$/;"	kind:p	line:84	file:
+dummy	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^					WORD_VAL dummy;$/;"	kind:l	line:224
+dummy	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^					WORD_VAL dummy;$/;"	kind:l	line:300
+dummy	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^				WORD_VAL dummy;$/;"	kind:l	line:261
+dummy	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^				WORD_VAL dummy;$/;"	kind:l	line:335
+ee_i_d	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	char ee_i_d[2];$/;"	kind:l	line:49
+epoch	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	DWORD epoch=0;$/;"	kind:l	line:57
+epochtime	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	DWORD epochtime=0xA2C2A;$/;"	kind:l	line:58
+filename	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^	BYTE filename[20];$/;"	kind:l	line:94
+flag	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^unsigned char flag;$/;"	kind:v	line:58
+gName	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	char *(*gName) (const void *);$/;"	kind:m	line:86	struct:BoardClass	access:public
+g_I2CSCL	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_I2CSCL[] = { p26 };	\/\/ pin number 1 of i2c ports$/;"	kind:v	line:69
+g_I2CSDA	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_I2CSDA[] = { p24 };	\/\/ pin number 2 of i2c ports$/;"	kind:v	line:70
+g_MISO	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_MISO[] 	= { uSD_MISO }; \/\/ sd-do$/;"	kind:v	line:63
+g_MOSI	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_MOSI[] 	= { uSD_MOSI };	\/\/ sd-di$/;"	kind:v	line:64
+g_SCK	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_SCK[] 	= { uSD_SCK }; 	\/\/ sd-clk$/;"	kind:v	line:62
+g_SD_CD	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_SD_CD[] 	= { uSD_CD };	\/\/ sd-sw$/;"	kind:v	line:66
+g_SPI_CS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_SPI_CS[] = { uSD_CS }; 	\/\/ sd-cs$/;"	kind:v	line:65
+g_an	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_an[] ={ 5, 4 };		\/\/ analog channels of analog ports$/;"	kind:v	line:73
+g_d1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_d1[] = { p13, p15 };	\/\/ pin number 1 of digital ports$/;"	kind:v	line:58
+g_d2	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^BYTE g_d2[] = { p14, p17 };	\/\/ pin number 2 of digital ports$/;"	kind:v	line:59
+get	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^float get(void *, ...);$/;"	kind:p	line:65
+get	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^float get(void *self, ...)$/;"	kind:f	line:131
+get_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	float (*get_)(void *,va_list *);$/;"	kind:m	line:76	struct:SensorClass	access:public
+i	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	DWORD i=0;$/;"	kind:l	line:46
+i2cnext	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *i2cnext;$/;"	kind:m	line:97	struct:Board	typeref:struct:Board::Interface	file:	access:public
+i2cstart	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *i2cstart;$/;"	kind:m	line:96	struct:Board	typeref:struct:Board::Interface	file:	access:public
+icflag	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^unsigned char icflag;\/\/input capture flag $/;"	kind:v	line:74
+icvalue	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^unsigned long icvalue;\/\/ICXBUF value$/;"	kind:v	line:75
+inter	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct Interface *inter;$/;"	kind:m	line:57	struct:An_i	typeref:struct:An_i::Interface	file:	access:public
+inter	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Interface *inter;$/;"	kind:m	line:57	struct:Dig_io	typeref:struct:Dig_io::Interface	file:	access:public
+isShared	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveinterfaces-pro.h	/^	BYTE isShared;		\/\/	Pin sharing - Indicates if the pins of the ports are shared with other ports, like in Arduino UNO Grove shield$/;"	kind:m	line:91	struct:__anon1	access:public
+j	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:223
+j	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:299
+j	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:260
+j	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:334
+j1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:223
+j1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^					int j = 0, j1 = 0;$/;"	kind:l	line:299
+j1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:260
+j1	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^				int j = 0, j1 = 0;$/;"	kind:l	line:334
+k_index	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^			int k_index;$/;"	kind:l	line:245
+len	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^	int len;$/;"	kind:l	line:95
+light_sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	void *light_sensor = new (An_i);$/;"	kind:l	line:69
+new	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^void *new(const void *_class, ...)$/;"	kind:f	line:61
+new_board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_board(const void *,va_list ap);$/;"	kind:p	line:56	file:
+new_board	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_board(const void *_class,va_list ap)$/;"	kind:f	line:156	file:
+new_sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_sensor(const void *,va_list ap);$/;"	kind:p	line:55	file:
+new_sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^static void *new_sensor(const void *_class,va_list ap)$/;"	kind:f	line:178	file:
+next	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^	struct Interface *next;$/;"	kind:m	line:87	struct:Interface	typeref:struct:Interface::Interface	access:public
+now	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	time_t now;$/;"	kind:l	line:55
+number	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	BYTE number = bit_number;$/;"	kind:l	line:403
+one_lenght	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	int one_lenght = (bitone_lenght << 4);$/;"	kind:l	line:404
+p	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:164
+p	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:202
+p	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:260
+p	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *p;$/;"	kind:l	line:307
+p	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:159
+p	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:181
+port	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^	GrovePort *port;$/;"	kind:m	line:86	struct:Interface	access:public
+pwm_duty	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	float* pwm_duty;$/;"	kind:m	line:61	struct:Dig_io	file:	access:public
+pwm_frequency	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	float* pwm_frequency;$/;"	kind:m	line:60	struct:Dig_io	file:	access:public
+pwm_num	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	BYTE pwm_num;$/;"	kind:m	line:59	struct:Dig_io	file:	access:public
+readError	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^unsigned char readError(void);$/;"	kind:p	line:66
+readError	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^unsigned char readError(void)$/;"	kind:f	line:149
+read_register	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\i2c_devices-pro.c	/^BYTE read_register(BYTE address,BYTE regist)$/;"	kind:f	line:68
+report	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^WORD report;$/;"	kind:v	line:21
+ret	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	int ret = ADCVal(self->inter->port->Pin1);$/;"	kind:l	line:89
+ret	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	int ret = IOGet(self->inter->port->Pin1);$/;"	kind:l	line:150
+security	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\HTTPApp.c	/^static BYTE security;$/;"	kind:v	line:47	file:
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *self = _self;$/;"	kind:l	line:62
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *self = _self;$/;"	kind:l	line:88
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:119
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:149
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:67
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:163
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:201
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:259
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _board;$/;"	kind:l	line:306
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Board *self = _self;$/;"	kind:l	line:150
+self	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	struct SensorClass **self = _self;$/;"	kind:l	line:81
+sen	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^	const struct SensorClass **sen = sensor;$/;"	kind:l	line:98
+sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:69
+sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\analog_in-pro.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:79
+sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:108
+sensor	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:92
+set	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^int set(void *,...);$/;"	kind:p	line:64
+set	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\grovelib-pro.c	/^int set(void *self,...)$/;"	kind:f	line:121
+set_	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	int (*set_)(void *,va_list *);$/;"	kind:m	line:75	struct:SensorClass	access:public
+set_register	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\i2c_devices-pro.c	/^int set_register(BYTE address,BYTE regist, BYTE data)$/;"	kind:f	line:51
+size	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	size_t size; $/;"	kind:m	line:70	struct:SensorClass	access:public
+size	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	size_t size; $/;"	kind:m	line:81	struct:BoardClass	access:public
+speed	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	/^	int speed;$/;"	kind:m	line:88	struct:Interface	access:public
+start	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\grovelib-pro.h	/^	void (*start) (const void *);$/;"	kind:m	line:85	struct:BoardClass	access:public
+start_alarm	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^void  start_alarm() \/\/function called when the alarm is rised$/;"	kind:f	line:29
+start_alarm_time	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^struct tm start_alarm_time;$/;"	kind:v	line:23	typeref:struct:tm
+start_string	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char start_string[10];$/;"	kind:v	line:16
+state	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	BYTE state = va_arg(*app, const BYTE);$/;"	kind:l	line:120
+stop_alarm	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^void  stop_alarm() \/\/function called when the alarm is rised$/;"	kind:f	line:36
+stop_alarm	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^void stop_alarm();$/;"	kind:p	line:27	file:
+stop_alarm_time	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^struct tm stop_alarm_time;$/;"	kind:v	line:24	typeref:struct:tm
+stop_string	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^char stop_string[10];$/;"	kind:v	line:17
+timeout	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned int timeout = TIMEOUT;$/;"	kind:l	line:405
+timeout	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timeout = ((unsigned long)time) * 500;\/\/timeout$/;"	kind:l	line:307
+timer	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^int timer;$/;"	kind:v	line:25
+timer_32bit	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timer_32bit;$/;"	kind:l	line:153
+timer_32bit	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timer_32bit;$/;"	kind:l	line:173
+timer_32bit	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\input_capture.c	/^	unsigned long timer_32bit;$/;"	kind:l	line:193
+ts	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\taskFlyport.c	/^	struct tm *ts;$/;"	kind:l	line:56
+type	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\digital_io-pro.c	/^	BYTE type;$/;"	kind:m	line:58	struct:Dig_io	file:	access:public
+uSD_CD	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	70;"	kind:d	line:70
+uSD_CS	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	69;"	kind:d	line:69
+uSD_MISO	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	67;"	kind:d	line:67
+uSD_MOSI	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	68;"	kind:d	line:68
+uSD_SCK	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\Include\groveboard-pro.h	66;"	kind:d	line:66
+uartnext	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *uartnext;$/;"	kind:m	line:103	struct:Board	typeref:struct:Board::Interface	file:	access:public
+uartstart	D:\JOBs\openPicus\new projects\Tutorial\hack_a_fridge_alarm\Libs\ExternalLib\groveboard-pro.c	/^	struct Interface *uartstart;$/;"	kind:m	line:102	struct:Board	typeref:struct:Board::Interface	file:	access:public
